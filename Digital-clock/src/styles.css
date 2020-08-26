@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  padding-top: 40vh;
+  overflow: hidden;
+  background-image: linear-gradient(
+    140.45deg,
+    #262626 0%,
+    rgba(40, 40, 40, 0.89) 100%
+  );
+}
+body {
+  margin: 0;
+}
