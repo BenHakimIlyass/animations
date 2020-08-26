@@ -1,3 +1,3 @@
 # Framer-motion-example
 Created with CodeSandbox
-https://t.co/JQIvsUrB0t?amp=1
+https://codesandbox.io/s/new-platform-kn5sx
